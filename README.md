@@ -83,7 +83,7 @@ This lab exercise demonstrated the practical implementation and assessment of VP
 For queries, contributions, or further collaboration opportunities:
 
 **Name:** *\[Yuvaraj]*
-**Email:** *\[[your-email@example.com](mailto:yuvarajchandran93@gmail.com)]*
+**Email:** *\[[yuvarajchandran93@gmail.com](mailto:yuvarajchandran93@gmail.com)]*
 
 ---
 
